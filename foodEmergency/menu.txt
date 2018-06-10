@@ -1,0 +1,17 @@
+
+        0. Spaghetti Carbonara 15.5
+        1. Spaghetti Bolognese 16.5
+        2. Pizza Capriciosa 24.0
+        3. Pizza Rucola 25.0
+        4. Pizza Mafioso 22.0
+        5. Pizza Quattro Formaggio 27.0
+        6. Pizza Margarita 15.0
+        7. Pizza Salami 18.5
+        8. Burger 19.0
+        9. Cheeseburger 20.0
+        10. Vegeburger 22.5
+_____________________________________________
+_____________________________________________
+
+Please choose your meal by giving its number:
+

@@ -1,0 +1,5 @@
+JUSEPPE TRATTORIA
+
+Meal price: 25.0
+Drink price: 3.5
+Total price: 28.5
